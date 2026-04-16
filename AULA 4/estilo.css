@@ -1,0 +1,38 @@
+.qdr1{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+.qdr2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 127, 223);
+}
+.qdr3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(127, 140, 255);
+}
+.qdr4{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(201, 60, 60);
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+.linha-fim{
+    display: flex;
+    justify-content: end;
+}
+.coluna-fim{
+    display: flex;
+    align-items: end;
+}
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
